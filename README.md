@@ -8,5 +8,6 @@
 
 	CssLoader
 		.css('/path.style.css')
+		.css('/path.style1.css')
 
 so easy
